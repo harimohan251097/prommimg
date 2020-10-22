@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+}
+
+body {
+	background: #0e2433;
+	color: #fff;
+}
+
+header .container-fluid {
+	background: #0e2433;
+	border-bottom: 1px solid #fff;
+
+}
+
+.navbar-brand {
+	color: #fff;
+}
+
+/* This is Footer */
+
+footer {
+    background: #171717;
+    padding: 15px 100px;
+}
+
+footer p {
+    color: #fff;
+    text-align: center;
+    letter-spacing: 1.8px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+/* Footer Ends Here */
